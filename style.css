@@ -1,0 +1,33 @@
+.logo img {
+  margin: 0 auto;
+  display: block;
+  width: 100%;
+  max-width: 400px;
+  padding-top: 25vh
+}
+
+.search {
+  width: 80%;
+	max-width: 500px;
+	height: auto;
+	display: block;
+	margin: 30px auto;
+	box-shadow: 0px 3px 6px #999;
+	border-width: 0px;
+	font-size: 20px;
+	font-family: arial;
+	padding: 10px 40px 10px 10px;
+}
+
+.search input{
+  background-color: transparent;
+  border: 0px solid;
+  height: 20px;
+  width: 107%;
+  color: black;
+  display: block;
+}
+
+.search input:focus{
+  outline: none;
+}
