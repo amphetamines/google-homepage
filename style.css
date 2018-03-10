@@ -31,3 +31,19 @@
 .search input:focus{
   outline: none;
 }
+
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 15px;
+  padding-right: 30px;
+  font-family: arial, sans-serif;
+  font-size: small;
+  color: #222;
+}
+
+li{
+  padding-right: 15px;
+  display: inline;
+
+}
